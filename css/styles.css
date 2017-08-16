@@ -26,14 +26,14 @@ body{
 
 }
 .headercontainer {
-    width: 465px;
+    width: 455px;
     height: 100px;
     display: inline-block;
     border: 5px solid white;
     vertical-align: top;
 }
 #pythonimage {
-    width: 300px;
+    width: 2900px;
     height: 100px;
     text-align: left;
     
